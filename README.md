@@ -1,6 +1,6 @@
 # BlackRaven Dojo
 
-The BlackRaven Dojo is a course in Software Engineering fundamentals comprising of 36 sessions (6 Units of 6 sessions each). The course is designed for all levels of experience, and assumes no previous knowledge of programming. The objectives of the course are:
+The BlackRaven Dojo is a course in Software Engineering fundamentals comprising of 48 sessions (8 Units of 6 sessions each). The course is designed for all levels of experience, and assumes no previous knowledge of programming. The objectives of the course are:
 
 * To teach fundamental machine architecture
 * To fill the gaps in understanding from high-level-first programming courses by teaching from a machine-level perspective
