@@ -152,7 +152,7 @@ An introduction to how computers process and store information, by studying fund
 * Desktop to Web - how JavaScript changed everything
 * The smartphone revolution
 
-### Unit 8 - Architecture and Infrastructure - 'Sturgeon's Law'
+### Unit 8 - Architecture and Infrastructure - 'A.K.A. If Sturgeon and Murphy had a kid...'
 
 #### Topics
 * **Week 1** - High Availability & Scalability Concepts, Load Testing
