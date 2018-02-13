@@ -9,7 +9,7 @@ The BlackRaven Dojo is a course in Software Engineering fundamentals comprising 
 
 ## Structure
 
-The course is comprised of 6 units of 6 sessions small group tuition, which will not exceed 6 students. Each unit runs for 6 weeks. Exercises and tasks will be set at the end of each session, reasonable extra one-to-one tuition and mentoring is available from tutors as part of the course structure. Guest lectures are included in cost and are optional, but highly recommended. Recommended further study and reading lists will be provided and are also optional, but highly recommended.
+The course is comprised of 7 units of 7 sessions small group tuition, which will not exceed 6 students. Each unit runs for 6 weeks. Exercises and tasks will be set at the end of each session, reasonable extra one-to-one tuition and mentoring is available from tutors as part of the course structure. Guest lectures are included in cost and are optional, but highly recommended. Recommended further study and reading lists will be provided and are also optional, but highly recommended.
 
 History & Culture segements will be explored informally either aside the course materials or outside of tuition time.
 
@@ -47,17 +47,18 @@ An introduction to how computers process and store information, by studying fund
 * The Elder Gods
 * The Story of Mel
 
-### Unit 2 - Programming Paradigms - 'There are many ways to shoot yourself in the foot'
+### Unit 2 - Programming Paradigms & Software Methodologoes - 'There are many ways to shoot yourself in the foot'
 
 #### Topics
 * Week 1 - Procedural Coding, Introduction to Source Control systems (github), Layering and Abstraction
-* Week 2 - Object Orientation #1 - Concepts and principles, relation to machine-level code
-* Week 3 - Object Orientation #2 - Common Design Patterns and anti-patterns
+* Week 2 - Object Orientation #1 - Concepts and principles, relation to machine-level code, Test and Behavour Driven Development
+* Week 3 - Object Orientation #2 - Common Design Patterns and anti-patterns, Continuous Integration and Deployment
 * Week 4 - Functional Programming and related concepts
 * Week 5 - Asynchronous vs. Synchronous Code, Inversion of Control
 * Week 6 - Multithreading and variants, Concurrent vs. Parallel Code. Synchronization strategies and pitfalls
 
 #### Recommended Reading
+* Waterfall, Agile, SCRUM Methodologies
 
 #### History and Culture
 * Code as Mathematical Proof / Code as Literature (Knuth vs. Dijkstra)
@@ -70,9 +71,9 @@ An introduction to how computers process and store information, by studying fund
 #### Topics
 * Week 1 - Fundamentals of file system storage, files, folders, streams, buffers
 * Week 2 - The Unix philosophy, the BASH shell, MS Windows variants, common commands, Stdio, redirection and pipes
-* Week 3 - Disks, Partitions, Volumes, File Systems, Checksums & Hashing
-* Week 4 - Compression, Encryption, Network Attached Storage
-* Week 5 - File Systen Security, ACLs, Penetration testing
+* Week 3 - Disks, Partitions, Volumes, File Systems, Checksums & Hashing, Anatomy of a Linux distro
+* Week 4 - Compression, Encryption, Network Attached Storage, Package Systems
+* Week 5 - File System Security, ACLs, Penetration testing, Hardening
 * Week 6 - Introduction to Public Key Encrpytion, SSH, Public Key Authentication
 
 #### Recommended Reading
@@ -80,10 +81,11 @@ An introduction to how computers process and store information, by studying fund
 
 ### Unit 4 - Databases, Data Storage systems and Caching - 'It's easy in 8 dimensions'
 
+#### Topics
 * Week 1 - Relational Databases vs. Document stores (SQL vs. NoSQL), Schemas, Keys & Indexing, BTREEs and fundamental storage
 * Week 2 - SQL and variants #1 - ACID, Transactions, Databases as Phase Spaces
 * Week 3 - SQL and variants #2 - Stored Procedures and more advanced queries
-* Week 4 - NoSQL Data stores and document storage, Consistency Models
+* Week 4 - NoSQL Data stores and document storage, Consistency Models, Security and SQL injection attacks
 * Week 5 - Caching Strategies and technologies, common pitfalls
 * Week 6 - Backups, Peformance and introduction to HA/Scale for Databases, Document Stores and Cache Layers
 
@@ -94,6 +96,7 @@ An introduction to how computers process and store information, by studying fund
 
 ### Unit 5 - Networking - 'The Intenet is a Series of Tubes, Filled with Cats'
 
+#### Topics
 * Week 1 - Bit level transports, Physical Networks, WiFi, Ethernet
 * Week 2 - The OSI Model
 * Week 3 - IP Networks and routing, packets, TCP, UDP; Security in Networking
@@ -109,8 +112,33 @@ An introduction to how computers process and store information, by studying fund
 * Tim Berners-Lee and The Web 
 * Bram Cohen and The Torrent Revolution
 
-### Unit 6 - Architecture and Infrastructure - 'Sturgeon's Law'
+### Unit 6 - APIs and Connected Systems
 
+#### Topics
+* Week 1 - API Concepts, Libraries, RPC, SOAP, REST
+* Week 2 - Data Representations - Encodings, CSV, XML, JSON, Binary Formats
+* Week 3 - APIs and Security, Authentication/Authorization, Rate Limiting
+* Week 4 - API first approach vs. Monolithic applications
+
+#### Recommended Reading
+#### History and Culture
+
+### Unit 7 - Frontend and UI Systems
+
+#### Topics
+* Week 1 - Desktop vs Browser vs App - User Interface Paradigms, Concepts & Limitations
+* Week 2 - Desktop Applications
+* Week 3 - The importance of User Experience (UX) as a strategy 
+* Week 4 - Design as code/Code as design, HTML/CSS frontend systems
+* Week 5 - Single Page vs. WebApp systems
+* Week 6 - Mobile Applications, strategies and pitfalls
+
+#### Recommended Reading
+#### History and Culture
+
+### Unit 8 - Architecture and Infrastructure - 'Sturgeon's Law'
+
+#### Topics
 * Week 1 - High Availability & Scalability Concepts
 * Week 2 - Microservice vs. Monotlithic Architecture and Patterns, Cloud native vs. Lift-And-Shift
 * Week 3 - Virtual Machines, cloud providers and services, serverless computing
@@ -119,6 +147,5 @@ An introduction to how computers process and store information, by studying fund
 * Week 6 - Scalability for Applications in the Cloud
 
 #### Recommended Reading
-* Martin Fowler
-
+* Microservices (Martin Fowler)
 #### History and Culture
