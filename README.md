@@ -133,7 +133,7 @@ An introduction to how computers process and store information, by studying fund
 #### History and Culture
 * WSDLs, XML Hell and The RESTful revolution
 * The ascendancy of JSON
-* The Jeff Bezoz Memo
+* The Jeff Bezos Memo
 
 ### Unit 7 - Frontend and UI Systems - 'Nice software, shame about the face'
 
