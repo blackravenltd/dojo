@@ -87,7 +87,7 @@ An introduction to how computers process and store information, by studying fund
 
 #### Topics
 * **Week 1** - Relational Databases vs. Document stores (SQL vs. NoSQL), Schemas, Keys & Indexing, BTREEs and fundamental storage
-* **Week 2** - SQL and variants #1 - ACID, Transactions, Databases as Phase Spaces
+* **Week 2** - SQL and variants #1 - 4GLs and declarative programming, ACID, Transactions, Databases as Phase Spaces
 * **Week 3** - SQL and variants #2 - Stored Procedures and more advanced queries
 * **Week 4** - NoSQL Data stores and document storage, Consistency Models, Security and SQL injection attacks
 * **Week 5** - Caching Strategies and technologies, common pitfalls
