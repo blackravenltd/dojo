@@ -15,7 +15,7 @@ History & Culture segements will be explored informally either aside the course 
 
 ## Evaluation
 
-BlackRaven Dojo is a professional development course, and does not include exams, offer certification, trophies, letters after your name, ranks, brands or tattoos on completion. As a paid course, it is the in the interests of students to take as much as possible from the content, mentoring and tuition provided.
+BlackRaven Dojo is a professional development course, and does not include exams, offer certification, trophies, letters after your name, ranks, badges, brands or tattoos on completion. As a paid course, it is the in the interests of students to take as much as possible from the content, mentoring and tuition provided.
 
 ## Costs
 
@@ -23,7 +23,7 @@ The course is offered at NZD $100 per student per session. A maximum of two meri
 
 ## Exclusion
 
-The tutors shall have the ability to summarily terminate the involvement of any student at any time, and course fees in this unhappy event are not refundable. Exclusion is at the sole discretion of the tutors, e.g. unacceptable behaviour, hygiene, disruptive or intimidating behaviour, bullying, harassment of any kind, or for any other reason deemed not to be in the interests of the course or students. 
+The tutors shall have the option to summarily terminate the involvement of any student at any time, and any course fees in this event are not refundable. Exclusion is at the sole discretion of the tutors, e.g. unacceptable behaviour, hygiene, disruptive or intimidating behaviour, bullying, harassment of any kind, or for any other reason deemed not to be in the interests of the course or students. 
 
 ## Units
 
