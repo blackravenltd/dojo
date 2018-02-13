@@ -135,7 +135,7 @@ An introduction to how computers process and store information, by studying fund
 * The ascendancy of JSON
 * The Jeff Bezos Memo
 
-### Unit 7 - Frontend and UI Systems - 'Nice software, shame about the face'
+### Unit 7 - Frontend and UI Systems - 'Nice software, shame about the face; or, the Awkward Genius Problem'
 
 #### Topics
 * **Week 1** - Desktop vs Browser vs App - User Interface Paradigms, Concepts & Limitations
