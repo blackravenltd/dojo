@@ -41,9 +41,9 @@ An introduction to how computers process and store information, by studying fund
 * Catb.org and Geek/Hacker/Maker Culture
 * Research skills and life-long learning
 * The Elder Gods
-* The Story of Mel
+* Ed Nather - The Story of Mel
 
-### Unit 2 - Programming Paradigms & Software Methodologoes - 'There are many ways to shoot yourself in the foot'
+### Unit 2 - Programming Paradigms & Software Methodologoes - '101 ways to shoot yourself in the foot'
 
 #### Topics
 * **Week 1** - Procedural Coding, Introduction to Source Control systems (github), Layering and Abstraction
@@ -55,12 +55,14 @@ An introduction to how computers process and store information, by studying fund
 
 #### Recommended Reading
 * Waterfall, Agile, SCRUM Methodologies
+* Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides - Design Patterns: Elements of Reusable Object-Oriented Software (ISBN-13: 978-0201633610)
 
 #### History and Culture
 * Code as Mathematical Proof / Code as Literature (Knuth vs. Dijkstra)
 * The importance of ongoing professional development and mentoring
 * The Three Laws of Software Egnineering
 * 8 Bit computing, gaming in the 80s and 90s, The Demoscene and cracker groups
+* Elegance as its own reward
 
 ### Unit 3 - Unix, File systems and storage - 'But it's Only a Gigabyte'
 
@@ -73,7 +75,12 @@ An introduction to how computers process and store information, by studying fund
 * **Week 6** - Introduction to Public Key Encrpytion, SSH, Public Key Authentication
 
 #### Recommended Reading
+
 #### History and Culture
+* DOS and variants
+* Limitations of file systems
+* Phone phreaking
+* DeCSS and DRM
 
 ### Unit 4 - Databases, Data Storage systems and Caching - 'It's easy in 8 dimensions'
 
@@ -89,8 +96,10 @@ An introduction to how computers process and store information, by studying fund
 * Blockchain & Emerging Technologies
 
 #### History and Culture
+* The consistency issue in relation to commercial business
+* 
 
-### Unit 5 - Networking - 'The Intenet is a Series of Tubes, Filled with Cats'
+### Unit 5 - Networking - 'The Internet is a Series of Tubes, Filled with Cats'
 
 #### Topics
 * **Week 1** - Bit level transports, Physical Networks, WiFi, Ethernet
@@ -108,18 +117,24 @@ An introduction to how computers process and store information, by studying fund
 * Tim Berners-Lee and The Web 
 * Bram Cohen and The Torrent Revolution
 
-### Unit 6 - APIs and Connected Systems
+### Unit 6 - APIs and Connected Systems - 'Anyone who doesn’t do this will be fired'
 
 #### Topics
-* **Week 1** - API Concepts, Libraries, RPC, SOAP, REST
+* **Week 1** - API Concepts, Local and Remote APIs, RPC, SOAP, REST, Integration Testing
 * **Week 2** - Data Representations - Encodings, CSV, XML, JSON, Binary Formats
 * **Week 3** - APIs and Security, Authentication/Authorization, Rate Limiting
 * **Week 4** - API first approach vs. Monolithic applications
+* **Week 5** - Service Description Languages, Clients from Code Generation
+* **Week 6** - The API Ecosystem, Integration vs. Implementation (Buy vs. Build)
 
 #### Recommended Reading
-#### History and Culture
 
-### Unit 7 - Frontend and UI Systems
+#### History and Culture
+* WSDLs, XML Hell and The RESTful revolution
+* The ascendancy of JSON
+* The Jeff Bezoz Memo
+
+### Unit 7 - Frontend and UI Systems - 'Nice software, shame about the face'
 
 #### Topics
 * **Week 1** - Desktop vs Browser vs App - User Interface Paradigms, Concepts & Limitations
@@ -130,22 +145,28 @@ An introduction to how computers process and store information, by studying fund
 * **Week 6** - Mobile Applications, strategies and pitfalls
 
 #### Recommended Reading
+
 #### History and Culture
+* Visual Languages and IDEs
+* Desktop to Web - how JavaScript changed everything
+* The smartphone revolution
 
 ### Unit 8 - Architecture and Infrastructure - 'Sturgeon's Law'
 
 #### Topics
-* **Week 1** - High Availability & Scalability Concepts
+* **Week 1** - High Availability & Scalability Concepts, Load Testing
 * **Week 2** - Microservice vs. Monotlithic Architecture and Patterns, Cloud native vs. Lift-And-Shift
 * **Week 3** - Virtual Machines, cloud providers and services, serverless computing
 * **Week 4** - In-Prem vs. Hosted vs. Cloud AWS, Google Cloud, Azure
-* **Week 5** - High Availability for Applications in the Cloud
-* **Week 6** - Scalability for Applications in the Cloud
+* **Week 5** - High Availability for Applications in the Cloud, Chaos Monkey Principle
+* **Week 6** - Scalability for Applications in the Cloud - Bursty vs. Consistent Load
 
 #### Recommended Reading
-* Microservices (Martin Fowler)
-#### History and Culture
+* Martin Fowler - Microservice Architecture
 
+#### History and Culture
+* ARPANET design principles in relation to Modern HA/Scale
+* WTF is a Chaos Monkey, anyway?
 
 ## Terms and Conditions
 
