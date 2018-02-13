@@ -19,7 +19,7 @@ BlackRaven Dojo is a professional development course, and does not include exams
 
 ## Costs
 
-The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, not to exceed 6 students in total. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
+The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, these students will be welcome at no charge. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
 
 ## Exclusion
 
