@@ -53,7 +53,7 @@ An introduction to how computers process and store information, by studying fund
 * Week 1 - Procedural Coding, Introduction to Source Control systems (github), Layering and Abstraction
 * Week 2 - Object Orientation #1 - Concepts and principles, relation to machine-level code, Test and Behavour Driven Development
 * Week 3 - Object Orientation #2 - Common Design Patterns and anti-patterns, Continuous Integration and Deployment
-* Week 4 - Functional Programming and related concepts
+* Week 4 - Functional Programming and related concepts, Software Development Mehodologies
 * Week 5 - Asynchronous vs. Synchronous Code, Inversion of Control
 * Week 6 - Multithreading and variants, Concurrent vs. Parallel Code. Synchronization strategies and pitfalls
 
