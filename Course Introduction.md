@@ -43,7 +43,7 @@ An introduction to how computers process and store information, by studying fund
 #### History and Culture
 * Coding is a creative art 
 * Catb.org and Geek/Hacker/Maker Culture
-* Research skills and life-ling learning
+* Research skills and life-long learning
 * The Elder Gods
 * The Story of Mel
 
