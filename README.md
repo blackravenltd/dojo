@@ -21,10 +21,6 @@ BlackRaven Dojo is a professional development course, and does not include exams
 
 The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, these students will be welcome at no charge. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
 
-## Exclusion
-
-The tutors shall have the option to summarily terminate the involvement of any student at any time, and any course fees in this event are not refundable. Exclusion is at the sole discretion of the tutors, e.g. unacceptable behaviour, hygiene, disruptive or intimidating behaviour, bullying, harassment of any kind, or for any other reason deemed not to be in the interests of the course or students. 
-
 ## Units
 
 ### Unit 1 - Fundamentals - 'There's No Magic'
@@ -149,3 +145,12 @@ An introduction to how computers process and store information, by studying fund
 #### Recommended Reading
 * Microservices (Martin Fowler)
 #### History and Culture
+
+
+## Terms and Conditions
+
+### Exclusion
+
+The tutors shall have the option to summarily terminate the involvement of any student at any time, and any course fees in this event are not refundable. Exclusion is at the sole discretion of the tutors, bullying / disruptive or intimidating behaviour, hygiene, harassment of any kind, or for any other reason deemed not to be in the interests of the course or students. 
+
+As a model of what is acceptable, please see https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
