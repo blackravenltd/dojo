@@ -1,10 +1,11 @@
 # BlackRaven Dojo
 
-The BlackRaven Dojo is a course in computer fundamentals comprising of 36 sessions (6 Units of 6 sessions each). The objectives of the course are:
+The BlackRaven Dojo is a course in Software Engineering fundamentals comprising of 36 sessions (6 Units of 6 sessions each). The course is designed for all levels of experience, and assumes no previous knowledge of programming. The objectives of the course are:
 
-* To taech fundamental machine architecture
+* To teach fundamental machine architecture
 * To fill the gaps in understanding from high-level-first programming courses by teaching from a machine-level perspective
-* To abstract the concept of specific programming languages  
+* To abstract the concept of specific programming languages to general principles 
+* To teach and develop reseach skills
 
 ## Structure
 
@@ -18,7 +19,7 @@ BlackRaven Dojo is a professional development course, and does not include exams
 
 ## Costs
 
-The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, not to exceed 6 students in total. Selection of merit students shall be at the discretion of the tutors, and their decision here is final
+The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, not to exceed 6 students in total. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
 
 ## Exclusion
 
