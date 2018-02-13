@@ -5,7 +5,7 @@ The BlackRaven Dojo is a course in Software Engineering fundamentals comprising 
 * To teach fundamental machine architecture
 * To fill the gaps in understanding from high-level-first programming courses by teaching from a machine-level perspective
 * To abstract the concept of specific programming languages to general principles 
-* To teach and develop reseach skills
+* To teach and develop research skills
 
 ## Structure
 
