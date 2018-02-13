@@ -56,6 +56,7 @@ An introduction to how computers process and store information, by studying fund
 #### Recommended Reading
 * Waterfall, Agile, SCRUM Methodologies
 * Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides - Design Patterns: Elements of Reusable Object-Oriented Software (ISBN-13: 978-0201633610)
+* Business Software Engineering Culture - Vendors vs. Startups, Stables and Volatiles, 10x, Unicorns 
 
 #### History and Culture
 * Code as Mathematical Proof / Code as Literature (Knuth vs. Dijkstra)
@@ -157,8 +158,8 @@ An introduction to how computers process and store information, by studying fund
 * **Week 1** - High Availability & Scalability Concepts, Load Testing
 * **Week 2** - Microservice vs. Monotlithic Architecture and Patterns, Cloud native vs. Lift-And-Shift
 * **Week 3** - Virtual Machines, cloud providers and services, serverless computing
-* **Week 4** - In-Prem vs. Hosted vs. Cloud AWS, Google Cloud, Azure
-* **Week 5** - High Availability for Applications in the Cloud, Chaos Monkey Principle
+* **Week 4** - Cloud Systems - In-Prem vs. Hosted vs. Cloud; AWS, Google Cloud, Azure, Migrations
+* **Week 5** - HA for Applications in the Cloud, Redundancy vs. High Availability, Chaos Monkey Principle
 * **Week 6** - Scalability for Applications in the Cloud - Bursty vs. Consistent Load
 
 #### Recommended Reading
@@ -167,6 +168,7 @@ An introduction to how computers process and store information, by studying fund
 #### History and Culture
 * ARPANET design principles in relation to Modern HA/Scale
 * WTF is a Chaos Monkey, anyway?
+* The Slashdot Effect
 
 ## Terms and Conditions
 
