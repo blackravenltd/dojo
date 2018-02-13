@@ -31,12 +31,12 @@ The tutors shall have the option to summarily terminate the involvement of any s
 An introduction to how computers process and store information, by studying fundamenal number systems and machine architecture at the chip level.
 
 #### Topics
-* Week 1 - Binary, Hexadecimal, Boolean logic, CPU conceptual architecture, Memory Architecture, Von Neumann vs. Harvard architecture, Logic gates
-* Week 2 - Gate networks, Binary Arithmetic using gates, 8/16/32/64 bit architectures, Introduction to Opcodes & Assembler
-* Week 3 - Primitives & ADTs, structs, pointers, arrays/maps as abstract concepts, Linked Lists, Binary Trees
-* Week 4 - Stacks, Flow Control & Branching: Conditionals, Loops, Subroutines, Lexical Scope
-* Week 5 - Implementing Flow control in high-level languages, Basic Compiler concepts, recursive Functions
-* Week 6 - Introduction to high-level languages and species identification. 
+* **Week 1** - Binary, Hexadecimal, Boolean logic, CPU conceptual architecture, Memory Architecture, Von Neumann vs. Harvard architecture, Logic gates
+* **Week 2** - Gate networks, Binary Arithmetic using gates, 8/16/32/64 bit architectures, Introduction to Opcodes & Assembler
+* **Week 3** - Primitives & ADTs, structs, pointers, arrays/maps as abstract concepts, Linked Lists, Binary Trees
+* **Week 4** - Stacks, Flow Control & Branching: Conditionals, Loops, Subroutines, Lexical Scope
+* **Week 5** - Implementing Flow control in high-level languages, Basic Compiler concepts, recursive Functions
+* **Week 6** - Introduction to high-level languages and species identification. 
 
 #### Recommended Reading
 
@@ -50,12 +50,12 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 2 - Programming Paradigms & Software Methodologoes - 'There are many ways to shoot yourself in the foot'
 
 #### Topics
-* Week 1 - Procedural Coding, Introduction to Source Control systems (github), Layering and Abstraction
-* Week 2 - Object Orientation #1 - Concepts and principles, relation to machine-level code, Test and Behavour Driven Development
-* Week 3 - Object Orientation #2 - Common Design Patterns and anti-patterns, Continuous Integration and Deployment
-* Week 4 - Functional Programming and related concepts, Software Development Mehodologies
-* Week 5 - Asynchronous vs. Synchronous Code, Inversion of Control
-* Week 6 - Multithreading and variants, Concurrent vs. Parallel Code. Synchronization strategies and pitfalls
+* **Week 1** - Procedural Coding, Introduction to Source Control systems (github), Layering and Abstraction
+* **Week 2** - Object Orientation #1 - Concepts and principles, relation to machine-level code, Test and Behavour Driven Development
+* **Week 3** - Object Orientation #2 - Common Design Patterns and anti-patterns, Continuous Integration and Deployment
+* **Week 4** - Functional Programming and related concepts, Software Development Mehodologies
+* **Week 5** - Asynchronous vs. Synchronous Code, Inversion of Control
+* **Week 6** - Multithreading and variants, Concurrent vs. Parallel Code. Synchronization strategies and pitfalls
 
 #### Recommended Reading
 * Waterfall, Agile, SCRUM Methodologies
@@ -69,12 +69,12 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 3 - Unix, File systems and storage - 'But it's Only a Gigabyte'
 
 #### Topics
-* Week 1 - Fundamentals of file system storage, files, folders, streams, buffers
-* Week 2 - The Unix philosophy, the BASH shell, MS Windows variants, common commands, Stdio, redirection and pipes
-* Week 3 - Disks, Partitions, Volumes, File Systems, Checksums & Hashing, Anatomy of a Linux distro
-* Week 4 - Compression, Encryption, Network Attached Storage, Package Systems
-* Week 5 - File System Security, ACLs, Penetration testing, Hardening
-* Week 6 - Introduction to Public Key Encrpytion, SSH, Public Key Authentication
+* **Week 1** - Fundamentals of file system storage, files, folders, streams, buffers
+* **Week 2** - The Unix philosophy, the BASH shell, MS Windows variants, common commands, Stdio, redirection and pipes
+* **Week 3** - Disks, Partitions, Volumes, File Systems, Checksums & Hashing, Anatomy of a Linux distro
+* **Week 4** - Compression, Encryption, Network Attached Storage, Package Systems
+* **Week 5** - File System Security, ACLs, Penetration testing, Hardening
+* **Week 6** - Introduction to Public Key Encrpytion, SSH, Public Key Authentication
 
 #### Recommended Reading
 #### History and Culture
@@ -82,12 +82,12 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 4 - Databases, Data Storage systems and Caching - 'It's easy in 8 dimensions'
 
 #### Topics
-* Week 1 - Relational Databases vs. Document stores (SQL vs. NoSQL), Schemas, Keys & Indexing, BTREEs and fundamental storage
-* Week 2 - SQL and variants #1 - ACID, Transactions, Databases as Phase Spaces
-* Week 3 - SQL and variants #2 - Stored Procedures and more advanced queries
-* Week 4 - NoSQL Data stores and document storage, Consistency Models, Security and SQL injection attacks
-* Week 5 - Caching Strategies and technologies, common pitfalls
-* Week 6 - Backups, Peformance and introduction to HA/Scale for Databases, Document Stores and Cache Layers
+* **Week 1** - Relational Databases vs. Document stores (SQL vs. NoSQL), Schemas, Keys & Indexing, BTREEs and fundamental storage
+* **Week 2** - SQL and variants #1 - ACID, Transactions, Databases as Phase Spaces
+* **Week 3** - SQL and variants #2 - Stored Procedures and more advanced queries
+* **Week 4** - NoSQL Data stores and document storage, Consistency Models, Security and SQL injection attacks
+* **Week 5** - Caching Strategies and technologies, common pitfalls
+* **Week 6** - Backups, Peformance and introduction to HA/Scale for Databases, Document Stores and Cache Layers
 
 #### Recommended Reading
 * Blockchain & Emerging Technologies
@@ -97,12 +97,12 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 5 - Networking - 'The Intenet is a Series of Tubes, Filled with Cats'
 
 #### Topics
-* Week 1 - Bit level transports, Physical Networks, WiFi, Ethernet
-* Week 2 - The OSI Model
-* Week 3 - IP Networks and routing, packets, TCP, UDP; Security in Networking
-* Week 4 - Common Protocols #1 - ICMP, DHCP
-* Week 5 - Common Protocols #2- Telnet, FTP, SMTP, POP3, HTTP, Torrent
-* Week 6 - Introduction to decentralised systems and Peer-to-Peer routing
+* **Week 1** - Bit level transports, Physical Networks, WiFi, Ethernet
+* **Week 2** - The OSI Model
+* **Week 3** - IP Networks and routing, packets, TCP, UDP; Security in Networking
+* **Week 4** - Common Protocols #1 - ICMP, DHCP
+* **Week 5** - Common Protocols #2- Telnet, FTP, SMTP, POP3, HTTP, Torrent
+* **Week 6** - Introduction to decentralised systems and Peer-to-Peer routing
 
 #### Recommended Reading
 
@@ -115,10 +115,10 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 6 - APIs and Connected Systems
 
 #### Topics
-* Week 1 - API Concepts, Libraries, RPC, SOAP, REST
-* Week 2 - Data Representations - Encodings, CSV, XML, JSON, Binary Formats
-* Week 3 - APIs and Security, Authentication/Authorization, Rate Limiting
-* Week 4 - API first approach vs. Monolithic applications
+* **Week 1** - API Concepts, Libraries, RPC, SOAP, REST
+* **Week 2** - Data Representations - Encodings, CSV, XML, JSON, Binary Formats
+* **Week 3** - APIs and Security, Authentication/Authorization, Rate Limiting
+* **Week 4** - API first approach vs. Monolithic applications
 
 #### Recommended Reading
 #### History and Culture
@@ -126,12 +126,12 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 7 - Frontend and UI Systems
 
 #### Topics
-* Week 1 - Desktop vs Browser vs App - User Interface Paradigms, Concepts & Limitations
-* Week 2 - Desktop Applications
-* Week 3 - The importance of User Experience (UX) as a strategy 
-* Week 4 - Design as code/Code as design, HTML/CSS frontend systems
-* Week 5 - Single Page vs. WebApp systems
-* Week 6 - Mobile Applications, strategies and pitfalls
+* **Week 1** - Desktop vs Browser vs App - User Interface Paradigms, Concepts & Limitations
+* **Week 2** - Desktop Applications
+* **Week 3** - The importance of User Experience (UX) as a strategy 
+* **Week 4** - Design as code/Code as design, HTML/CSS frontend systems
+* **Week 5** - Single Page vs. WebApp systems
+* **Week 6** - Mobile Applications, strategies and pitfalls
 
 #### Recommended Reading
 #### History and Culture
@@ -139,12 +139,12 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 8 - Architecture and Infrastructure - 'Sturgeon's Law'
 
 #### Topics
-* Week 1 - High Availability & Scalability Concepts
-* Week 2 - Microservice vs. Monotlithic Architecture and Patterns, Cloud native vs. Lift-And-Shift
-* Week 3 - Virtual Machines, cloud providers and services, serverless computing
-* Week 4 - In-Prem vs. Hosted vs. Cloud AWS, Google Cloud, Azure
-* Week 5 - High Availability for Applications in the Cloud
-* Week 6 - Scalability for Applications in the Cloud
+* **Week 1** - High Availability & Scalability Concepts
+* **Week 2** - Microservice vs. Monotlithic Architecture and Patterns, Cloud native vs. Lift-And-Shift
+* **Week 3** - Virtual Machines, cloud providers and services, serverless computing
+* **Week 4** - In-Prem vs. Hosted vs. Cloud AWS, Google Cloud, Azure
+* **Week 5** - High Availability for Applications in the Cloud
+* **Week 6** - Scalability for Applications in the Cloud
 
 #### Recommended Reading
 * Microservices (Martin Fowler)
