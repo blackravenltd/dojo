@@ -119,6 +119,6 @@ An introduction to how computers process and store information, by studying fund
 * Week 6 - Scalability for Applications in the Cloud
 
 #### Recommended Reading
-
 * Martin Fowler
+
 #### History and Culture
