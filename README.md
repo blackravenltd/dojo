@@ -9,7 +9,7 @@ The BlackRaven Dojo is a course in Software Engineering fundamentals comprising 
 
 ## Structure
 
-The course is comprised of 7 units of 7 sessions small group tuition, which will not exceed 6 students. Each unit runs for 6 weeks. Exercises and tasks will be set at the end of each session, reasonable extra one-to-one tuition and mentoring is available from tutors as part of the course structure. Guest lectures are included in cost and are optional, but highly recommended. Recommended further study and reading lists will be provided and are also optional, but highly recommended.
+The course is comprised of 8 units of 8 sessions small group tuition, which will not exceed 6 students. Each unit runs for 6 weeks. Exercises and tasks will be set at the end of each session, reasonable extra one-to-one tuition and mentoring is available from tutors as part of the course structure. Guest lectures are included in cost and are optional, but highly recommended. Recommended further study and reading lists will be provided and are also optional, but highly recommended.
 
 History & Culture segements will be explored informally either aside the course materials or outside of tuition time.
 
