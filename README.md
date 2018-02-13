@@ -41,7 +41,7 @@ An introduction to how computers process and store information, by studying fund
 #### Recommended Reading
 
 #### History and Culture
-* Coding is a creative art 
+* Coding as a creative art 
 * Catb.org and Geek/Hacker/Maker Culture
 * Research skills and life-long learning
 * The Elder Gods
