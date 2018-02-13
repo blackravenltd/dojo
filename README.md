@@ -50,11 +50,11 @@ An introduction to how computers process and store information, by studying fund
 ### Unit 2 - Programming Paradigms - 'There are many ways to shoot yourself in the foot'
 
 #### Topics
-* Week 1 - Procedural Coding, Introduction to Source Control systems (github)
+* Week 1 - Procedural Coding, Introduction to Source Control systems (github), Layering and Abstraction
 * Week 2 - Object Orientation #1 - Concepts and principles, relation to machine-level code
 * Week 3 - Object Orientation #2 - Common Design Patterns and anti-patterns
 * Week 4 - Functional Programming and related concepts
-* Week 5 - Asynchronous vs. Synchronous Code
+* Week 5 - Asynchronous vs. Synchronous Code, Inversion of Control
 * Week 6 - Multithreading and variants, Concurrent vs. Parallel Code. Synchronization strategies and pitfalls
 
 #### Recommended Reading
