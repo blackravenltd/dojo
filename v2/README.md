@@ -9,7 +9,7 @@ The BlackRaven Dojo is a course in Software Engineering fundamentals comprising 
 
 ## Costs
 
-The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, these students will be welcome at no charge. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
+The course is offered at NZD $10 per student per session for both the basic and professional modules. A limited number of merit students will be welcome at no charge. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
 
 ## Structure
 
