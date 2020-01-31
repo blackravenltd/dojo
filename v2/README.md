@@ -1,12 +1,23 @@
-# BlackRaven Dojo 2020
+# BlackRaven Dojo (v2, 2020)
 
-The Proposed changes for BR Dojo in 2020. The main intent is to separate out the basics as a seperate prelimiary course, and make the main course non-linear, i.e. someone who completes basic can join the main course immediately during any module, and graduates a year later when they have completed the rest of the modules and the course has cycled back to the module they originally joined. 
+The BlackRaven Dojo is a course in Software Engineering fundamentals comprising of 2 levels - basic training, and the professional course modules. The course is designed for all levels of experience, and assumes no previous knowledge of programming. The objectives of the course are:
+
+* To teach fundamental machine architecture
+* To fill the gaps in understanding from high-level-first programming courses by teaching from a machine-level perspective
+* To abstract the concept of specific programming languages to general principles 
+* To teach and develop research skills
+
+## Costs
+
+The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, these students will be welcome at no charge. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
 
 ## Structure
 
+There are two levels of training - Basic and Professional. The Basic course comprises of 6 weeks of classroom training and an assessment. Students who pass the Basic course may proceed to the Professional Modules, and having completed all modules the student graduates. 
+
 ### Basic - "There's No Magic"
 
-Class size maximum 10. Runs continuously throughout the year (1hr/week) with assignment. 
+Class size maximum 10. Runs continuously throughout the year, beginning every 6 weeks. The classroom time is 1hr/week, with additonal assignments. 
 
 * Binary, Hexadecimal, Boolean logic, Logic Gates
 * CPU conceptual architecture, Memory Architecture, Von Neumann vs. Harvard architecture
@@ -16,7 +27,7 @@ Class size maximum 10. Runs continuously throughout the year (1hr/week) with ass
 * The C Language as portable assembly. Basic Compiler concepts, recursive Functions
 * Introduction to high-level languages and species identification. 
 
-### Course - "Everyone's always a beginner"
+### Course - "We're always beginners"
 
 No maximum class size. Class runs Jan-Nov, any student who has completed Basic can join at any time.
 
@@ -37,9 +48,5 @@ Online tests using the Certify system.
 
 ## Graduation
 
-A student can graduate when they have attended basic and completed each module in the course. Graduations will be held every 6 weeks.
-
-## Payment
-
-Per-seat pricing model at a much lower cost, e.g. $10/head per session.
+A student graduates when they have completed Basic followed each Professional module in the course, in no particular order. Graduations will be held every 6 weeks.
 
