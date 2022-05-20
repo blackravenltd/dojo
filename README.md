@@ -9,10 +9,6 @@ The BlackRaven Dojo is a course in Software Engineering fundamentals comprising 
 * To highlight the importance of elegance, performance, stability, efficiency and craftsmanship  
 * To develop an awareness of the culture and history of the profession
 
-## v2 2020
-
-Dojo is fundamentally changing in 2020. [See the proposed changes here](2020.md).
-
 ## Structure
 
 The course is comprised of 8 units of 6 sessions small group tuition, which will not exceed 6 students. Each unit runs for 6 weeks. Exercises and tasks will be set at the end of each session, reasonable extra one-to-one tuition and mentoring is available from tutors as part of the course structure. Guest lectures are included in cost and are optional. Recommended further study and reading lists will be provided and extended as the course continues and are also optional, but highly recommended.
@@ -22,10 +18,6 @@ History & Culture segments will be explored informally either aside the course m
 ## Evaluation
 
 BlackRaven Dojo is a professional development course, and does not include exams, offer certification, trophies, letters after your name, ranks, badges, brands or tattoos on completion. As a paid course, it is the in the interests of students to take as much as possible from the content, mentoring and tuition provided.
-
-## Costs
-
-The course is offered at NZD $100 per student per session. A maximum of two merit (scholarship) places will be offered at each session, these students will be welcome at no charge. Selection of merit students shall be at the discretion of the tutors, and their decision is final.
 
 ## Units
 
